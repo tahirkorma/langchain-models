@@ -1,4 +1,4 @@
-# Langchain Models
+# LangChain Models
 
 A comprehensive repository showcasing the integration of various **Language Models (LLMs)**, **Chat Models**, and **Embedding Models** using the latest version of [LangChain](https://github.com/langchain-ai/langchain).
 
